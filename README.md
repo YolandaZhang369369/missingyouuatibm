@@ -1,1 +1,1 @@
-# Please read this wiki in patient to see how much we are missing you in IBM!
+# Please read this wiki to see how much we are missing you in IBM!
